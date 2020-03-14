@@ -1,11 +1,11 @@
 {
   "name": "ember-cli-markdown-it-templates",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Create .md - templates in Ember.js projects via markdown-it",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/effective-ember/ember-cli-markdown-it-templates",
   "license": "MIT",
   "author": "",
   "directories": {
