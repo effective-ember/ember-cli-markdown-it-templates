@@ -24,7 +24,7 @@
     "broccoli-stew": "^3.0.0",
     "ember-cli-babel": "^7.17.2",
     "ember-cli-htmlbars": "^4.2.2",
-    "markdown-it-compiler": "^0.0.1",
+    "markdown-it-compiler": "^0.1.0",
     "markdown-it-ember": "^0.0.2"
   },
   "devDependencies": {
