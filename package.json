@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-markdown-it-templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create .md - templates in Ember.js projects via markdown-it",
   "keywords": [
     "ember-addon"
