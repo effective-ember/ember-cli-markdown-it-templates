@@ -1,14 +1,14 @@
-import Component from '@glimmer/component';
-import { tracked } from '@glimmer/tracking';
+import Component from '@ember/component';
 import { action } from '@ember/object';
 
 
 export default class TestComponent extends Component {
-  @tracked
+  tagName = '';
+
   showResult = false;
 
   @action
   handleClick() {
-    this.showResult = !this.showResult;
+    this.set('showResult', !this.showResult);
   }
 }
