@@ -1,4 +1,4 @@
-ember-cli-markdown-it-templates
+ember-cli-markdown-it-templates [![Build Status](https://travis-ci.org/effective-ember/ember-cli-markdown-it-templates.svg?branch=master)](https://travis-ci.org/effective-ember/ember-cli-markdown-it-templates)
 ==============================================================================
 
 This addon allows using `.md` and `markdown`-files as templates in your
